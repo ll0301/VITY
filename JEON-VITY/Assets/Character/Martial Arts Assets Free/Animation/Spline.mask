@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Spline
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Camera
+    m_Weight: 1
+  - m_Path: Generic Man
+    m_Weight: 1
+  - m_Path: Generic Man/hips
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.L
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.L/upperArm.L
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.L/upperArm.L/lowerArm.L
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.L/upperArm.L/lowerArm.L/hand.L
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.L/upperArm.L/lowerArm.L/hand.L/indexProximal.L
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.L/upperArm.L/lowerArm.L/hand.L/indexProximal.L/indexIntermediate.L
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.L/upperArm.L/lowerArm.L/hand.L/indexProximal.L/indexIntermediate.L/indexDistal.L
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.L/upperArm.L/lowerArm.L/hand.L/indexProximal.L/indexIntermediate.L/indexDistal.L/indexDistal.L_end
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.L/upperArm.L/lowerArm.L/hand.L/middleProximal.L
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.L/upperArm.L/lowerArm.L/hand.L/middleProximal.L/middleIntermediate.L
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.L/upperArm.L/lowerArm.L/hand.L/middleProximal.L/middleIntermediate.L/middleDistal.L
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.L/upperArm.L/lowerArm.L/hand.L/middleProximal.L/middleIntermediate.L/middleDistal.L/middleDistal.L_end
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.L/upperArm.L/lowerArm.L/hand.L/thumbProximal.L
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.L/upperArm.L/lowerArm.L/hand.L/thumbProximal.L/thumbIntermediate.L
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.L/upperArm.L/lowerArm.L/hand.L/thumbProximal.L/thumbIntermediate.L/thumbDistal.L
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.L/upperArm.L/lowerArm.L/hand.L/thumbProximal.L/thumbIntermediate.L/thumbDistal.L/thumbDistal.L_end
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.R
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.R/upperArm.R
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.R/upperArm.R/lowerArm.R
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.R/upperArm.R/lowerArm.R/hand.R
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.R/upperArm.R/lowerArm.R/hand.R/indexProximal.R
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.R/upperArm.R/lowerArm.R/hand.R/indexProximal.R/indexIntermediate.R
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.R/upperArm.R/lowerArm.R/hand.R/indexProximal.R/indexIntermediate.R/indexDistal.R
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.R/upperArm.R/lowerArm.R/hand.R/indexProximal.R/indexIntermediate.R/indexDistal.R/indexDistal.R_end
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.R/upperArm.R/lowerArm.R/hand.R/middleProximal.R
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.R/upperArm.R/lowerArm.R/hand.R/middleProximal.R/middleIntermediate.R
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.R/upperArm.R/lowerArm.R/hand.R/middleProximal.R/middleIntermediate.R/middleDistal.R
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.R/upperArm.R/lowerArm.R/hand.R/middleProximal.R/middleIntermediate.R/middleDistal.R/middleDistal.R_end
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.R/upperArm.R/lowerArm.R/hand.R/thumbProximal.R
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.R/upperArm.R/lowerArm.R/hand.R/thumbProximal.R/thumbIntermediate.R
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.R/upperArm.R/lowerArm.R/hand.R/thumbProximal.R/thumbIntermediate.R/thumbDistal.R
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/collarbone.R/upperArm.R/lowerArm.R/hand.R/thumbProximal.R/thumbIntermediate.R/thumbDistal.R/thumbDistal.R_end
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/neck
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/neck/head
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/neck/head/eye.L
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/neck/head/eye.L/eye.L_end
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/neck/head/eye.R
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/neck/head/eye.R/eye.R_end
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/neck/head/jaw
+    m_Weight: 1
+  - m_Path: Generic Man/hips/spine/chest/chest.Upper/neck/head/jaw/jaw_end
+    m_Weight: 1
+  - m_Path: Generic Man/hips/upperLeg.L
+    m_Weight: 1
+  - m_Path: Generic Man/hips/upperLeg.L/lowerLeg.L
+    m_Weight: 1
+  - m_Path: Generic Man/hips/upperLeg.L/lowerLeg.L/foot.L
+    m_Weight: 1
+  - m_Path: Generic Man/hips/upperLeg.L/lowerLeg.L/foot.L/toe.L
+    m_Weight: 1
+  - m_Path: Generic Man/hips/upperLeg.L/lowerLeg.L/foot.L/toe.L/toe.L_end
+    m_Weight: 1
+  - m_Path: Generic Man/hips/upperLeg.R
+    m_Weight: 1
+  - m_Path: Generic Man/hips/upperLeg.R/lowerLeg.R
+    m_Weight: 1
+  - m_Path: Generic Man/hips/upperLeg.R/lowerLeg.R/foot.R
+    m_Weight: 1
+  - m_Path: Generic Man/hips/upperLeg.R/lowerLeg.R/foot.R/toe.R
+    m_Weight: 1
+  - m_Path: Generic Man/hips/upperLeg.R/lowerLeg.R/foot.R/toe.R/toe.R_end
+    m_Weight: 1
+  - m_Path: Head 1
+    m_Weight: 1
+  - m_Path: Head 2
+    m_Weight: 1
+  - m_Path: Head 3
+    m_Weight: 1
+  - m_Path: Head 4
+    m_Weight: 1
+  - m_Path: Head 5
+    m_Weight: 1
+  - m_Path: Head 6
+    m_Weight: 1
+  - m_Path: Head 7
+    m_Weight: 1
+  - m_Path: Head 8
+    m_Weight: 1
+  - m_Path: Head 9
+    m_Weight: 1
+  - m_Path: Head 10
+    m_Weight: 1
+  - m_Path: Head 11
+    m_Weight: 1
+  - m_Path: Head 12
+    m_Weight: 1
+  - m_Path: Head 13
+    m_Weight: 1
+  - m_Path: Head 19
+    m_Weight: 1
+  - m_Path: Lamp
+    m_Weight: 1
+  - m_Path: MA Body 1
+    m_Weight: 1
+  - m_Path: MA Body 2
+    m_Weight: 1
+  - m_Path: MA Body 3
+    m_Weight: 1
+  - m_Path: MA Body 4
+    m_Weight: 1
+  - m_Path: MA Body 5
+    m_Weight: 1

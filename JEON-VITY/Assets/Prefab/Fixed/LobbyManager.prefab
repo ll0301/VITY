@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3914635354829124618
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3914635354829124617}
+  - component: {fileID: 4753860601954962444}
+  - component: {fileID: 4753860601954962443}
+  m_Layer: 0
+  m_Name: LobbyManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3914635354829124617
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3914635354829124618}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 9.461034, y: 1, z: -8.368713}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4753860601954962444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3914635354829124618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3a327d9c1532924d9b12e9c5b38bf91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  chatScroll: {fileID: 0}
+  chatContainer: {fileID: 0}
+  messagePrefab: {fileID: 2650340065876818940, guid: f1e26f4453d6e234c812016e34586fc6,
+    type: 3}
+  clientName: 
+  socketReady: 0
+  roomListContainer: {fileID: 0}
+  roomListPrefab: {fileID: 3323490555468698528, guid: d797deb631e396940a0114ece412aad8,
+    type: 3}
+  mRoomList: []
+  oneToOne: {fileID: 0}
+  groupMatch: {fileID: 0}
+  privateRoom: {fileID: 0}
+  playerContainer: {fileID: 0}
+  roomChatContainer: {fileID: 0}
+  playerPrefab: {fileID: 0}
+  roomMessagePrefab: {fileID: 8847991622380826457, guid: 27dd3a76353691040971923027986798,
+    type: 3}
+  mPlayerList: []
+  mChatList: []
+  roomPanel: {fileID: 0}
+  ownerName: 
+  title_canvas: {fileID: 0}
+  lobby_canvas: {fileID: 0}
+  room_canvas: {fileID: 0}
+  titleCG: {fileID: 0}
+  lobbyCG: {fileID: 0}
+  roomCG: {fileID: 0}
+  host: 15.164.97.221
+  port: 6321
+--- !u!114 &4753860601954962443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3914635354829124618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30bed8e86b93a3c428362dbb9cb785b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  roomPanel: {fileID: 0}
+  roomPrefab: {fileID: 0}
+  ownerName: 
+  Count: 0

@@ -1,0 +1,66 @@
+﻿using UnityEngine;
+using UnityEngine.EventSystems;
+
+
+    
+    // 터치하여 카메라 방향전환
+    public class FixedTouchField : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
+{
+    [HideInInspector]
+    public Vector2 TouchDist;
+    [HideInInspector]
+    protected Vector2 PointerOld;
+    [HideInInspector]
+    protected int PointerId;
+    [HideInInspector]
+    public bool Pressed;
+    public bool UseFixedUpdate;
+
+    // Update is called once per frame
+    void Update()
+    {
+        if (!UseFixedUpdate)
+            DoUpdate();
+    }
+    // Update is called once per frame
+    void FixedUpdate()
+    {
+        if (UseFixedUpdate)
+            DoUpdate();
+    }
+
+    private void DoUpdate()
+    {
+        if (Pressed)
+        {
+            if (PointerId >= 0 && PointerId < Input.touches.Length)
+            {
+                TouchDist = Input.touches[PointerId].position - PointerOld;
+                PointerOld = Input.touches[PointerId].position;
+            }
+            else
+            {
+                TouchDist = new Vector2(Input.mousePosition.x, Input.mousePosition.y) - PointerOld;
+                PointerOld = Input.mousePosition;
+            }
+        }
+        else
+        {
+            TouchDist = new Vector2();
+        }
+    }
+
+    public void OnPointerDown(PointerEventData eventData)
+    {
+        Pressed = true;
+        PointerId = eventData.pointerId;
+        PointerOld = eventData.position;
+    }
+
+
+    public void OnPointerUp(PointerEventData eventData)
+    {
+        Pressed = false;
+    }
+
+}
