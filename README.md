@@ -40,7 +40,7 @@ Email : <jhhh171224@gmail.com>
   > <img src="./github_image/vity_room_chat.gif"></img>
   > * * *
   > ### 방장 변경 
-  > <img src="./github_image/vity_change_owner.gif"></img>
+  > <img src="./github_image/vity_owner_change.gif"></img>
   > * * *
   > ### 강퇴
   > <img src="./github_image/vity_kickoff.gif"></img>
