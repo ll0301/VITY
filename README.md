@@ -44,8 +44,6 @@ Email : <jhhh171224@gmail.com>
   > * * *
   > ### 강퇴
   > <img src="./github_image/vity_kickoff.gif"></img>
-  > * Firebase Authentication 을 활용한 회원가입과 로그인 구현 
-  > * 앱 처음 실행할 때, 로그인할 때 각각 로딩화면 구현 
   > * * *
   > ### 조이스틱
   > <img src="./github_image/vity_joystick.gif"></img>
