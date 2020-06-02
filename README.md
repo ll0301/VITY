@@ -7,8 +7,7 @@
 블로그 : <https://jroomstudio.tistory.com/>    
 Email : <jhhh171224@gmail.com>    
 * * *
-### SKILL
-  > #### Front-end   
+### SKILL  
   >  * Unity : C#, HTTP Request, TCP/UDP Socket, NavMesh, AgoraIO 
   >  * Server : AWS EC2, Ubuntu, Apache2, PHP, MySQL, Java 
   >  * HTTP Request를 활용한 회원가입, 로그인 
