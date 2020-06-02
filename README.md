@@ -9,15 +9,15 @@ Email : <jhhh171224@gmail.com>
 * * *
 ### SKILL
   > #### Front-end   
-  >  * Unity(C#)
-  > #### Back-end
-  >  * MySQL
-  >  * AWS - Ubuntu
-  >  * java 
-  >  * json 데이터 
-  >  * HTTP, TCP, UDP 통신 
-  >  * PHP
-  >  * Agora Gaming SDK (음성채팅)
+  >  * Unity : C#, HTTP Request, TCP/UDP Socket, NavMesh, AgoraIO 
+  >  * Server : AWS EC2, Ubuntu, Apache2, PHP, MySQL, Java 
+  >  * HTTP Request를 활용한 회원가입, 로그인 
+  >  * Unity NavMesh를 활용한 NPC 캐릭터 구현
+  >  * Agora IO 를 활용한 음성채
+  >  * 3D 애니메이션, 조이스틱, 캐릭터 변경 등의 Unity 클라이언
+  >  * 회원가입, 로그인 (MySQL + PHP)
+  >  * TCP를 활용한 채팅, 단체채팅, 방만들기 구현 
+  >  * UDP를 활용한 멀티플레이 게임 (1:1 개인전, 최대 4명 단체전)
 * * *
 ### 참고게임 - 라스트 맨 스탠딩
   > <img src="https://img.itch.zone/aW1hZ2UvMzc4MzQvMTY4NDU0LnBuZw==/original/FvWaiU.png"></img>
