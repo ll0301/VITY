@@ -4,9 +4,6 @@
 [프로젝트 내용] 유니티로 제작한 멀티플레이 숨박꼭질 모바일 게임  
 [프로젝트 인원] 1명    
 
-시연영상 : <http://115.68.221.104/vity.html>   
-블로그 : <https://jroomstudio.tistory.com/>    
-Email : <jhhh171224@gmail.com>    
 * * *
 ### SKILL  
   >  * Unity : C#, HTTP Request, TCP/UDP Socket, NavMesh, AgoraIO 
